@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.venv*
+Week VI/images/
+Week VI/annotations/
+*tar.gz*
+input_images/
+target_images/
+*.h5
