@@ -134,3 +134,6 @@ Week VI/annotations/
 input_images/
 target_images/
 *.h5
+images/
+annotations/
+old_models/
