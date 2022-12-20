@@ -1,0 +1,6 @@
+ipython
+numpy
+tensorflow==2.8.2
+matplotlib
+Pillow
+jupyter
