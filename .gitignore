@@ -139,3 +139,7 @@ annotations/
 old_models/
 Assignments/Assignment II/cats_and_dogs_data.zip
 Notebooks/Week VI/Week_VI_Segmentation_.ipynb
+*.png
+*.jpg
+*.gif
+Notebooks/Week XII/old_versions/
