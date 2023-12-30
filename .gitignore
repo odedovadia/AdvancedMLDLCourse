@@ -143,3 +143,5 @@ Notebooks/Week VI/Week_VI_Segmentation_.ipynb
 *.jpg
 *.gif
 Notebooks/Week XII/old_versions/
+.vscode
+Notebooks/Week XIII/checkpoints

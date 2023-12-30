@@ -1,6 +1,7 @@
 ipython
 numpy
-tensorflow==2.8.2
+tensorflow
 matplotlib
 Pillow
 jupyter
+keras_cv
